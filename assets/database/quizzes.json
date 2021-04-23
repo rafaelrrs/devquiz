@@ -3,7 +3,7 @@
     "title": "Nlw 5 Flutter",
     "questions": [
      { "title": "Está curtindo o flutter?", 
-            "answers":[ 
+            "awnsers":[ 
         {"title": "Estou curtindo"},
         {"title": "Amando Flutter"},
         {"title": "Muito top"},
@@ -11,7 +11,7 @@
     ]
      },
      { "title": "Está curtindo o flutter?", 
-            "answers":[ 
+            "awnsers":[ 
         {"title": "Estou curtindo"},
         {"title": "Amando Flutter"},
         {"title": "Muito top"},
