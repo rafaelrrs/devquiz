@@ -1,5 +1,3 @@
-// ignore: avoid_web_libraries_in_flutter
-// import 'dart:html';
 import 'package:DevQuiz/challenge/widgets/next_button/next_button_widget.dart';
 import 'package:DevQuiz/core/app_images.dart';
 import 'package:DevQuiz/core/app_text_styles.dart';

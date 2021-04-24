@@ -3,14 +3,10 @@ import 'package:DevQuiz/shared/widgets/progress_indicator/models/quiz_model.dart
 import 'package:DevQuiz/shared/widgets/progress_indicator/models/user_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
-
 import 'home_repository.dart';
 import 'home_state.dart';
 
 class HomeController {
-  // ValueNotifier<HomeState> stateNotifier =
-  //     ValueNotifier<HomeState>(HomeState.empty);
-
   final stateNotifier = ValueNotifier<HomeState>(HomeState.empty);
 
   set state(HomeState state) => stateNotifier.value = state;

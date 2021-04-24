@@ -5,7 +5,6 @@ import 'package:DevQuiz/challenge/widgets/quiz/quiz_widget.dart';
 import 'package:DevQuiz/result/result_page.dart';
 import 'package:DevQuiz/shared/widgets/progress_indicator/models/question_model.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/scheduler.dart';
 
 class ChallengePage extends StatefulWidget {
   final List<QuestionModel> questions;
